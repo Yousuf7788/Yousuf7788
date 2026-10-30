@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Yousuf7788-181717?style=flat&logo=github)](https://github.com/Yousuf7788)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yousuf-aijaz)
-[![Email](https://img.shields.io/badge/Email-ya09222%40st.habib.edu.pk-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ya09222@st.habib.edu.pk)
+[![Email](https://img.shields.io/badge/Email-yousufaijaz042%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yousufaijaz042@gmail.com)
 
 </div>
 
@@ -98,6 +98,6 @@ A full-featured desktop application for managing cinema operations with role-bas
 
 *Open to research collaborations, technical internships, and graduate study opportunities.*
 
-**Karachi, Pakistan** · [ya09222@st.habib.edu.pk](mailto:ya09222@st.habib.edu.pk)
+**Karachi, Pakistan** · [yousufaijaz042@gmail.com](mailto:yousufaijaz042@gmail.com)
 
 </div>
