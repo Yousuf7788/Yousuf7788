@@ -5,7 +5,7 @@
 **Computer Engineering** · Habib University · Class of 2027
 
 [![GitHub](https://img.shields.io/badge/GitHub-Yousuf7788-181717?style=flat&logo=github)](https://github.com/Yousuf7788)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yousuf-aijaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yousuf-aijaz-319069333)
 [![Email](https://img.shields.io/badge/Email-yousufaijaz042%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yousufaijaz042@gmail.com)
 
 </div>
